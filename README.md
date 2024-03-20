@@ -13,7 +13,7 @@ This project demonstrates interfacing LEDs with a push button using an ESP8266 (
                                   |    D1    |    D2    |
                                   |__________|__________|
                                   |          |          |
-                                  |    D3    |    D5    |
+                                  |    D3    |    D6    |
                                   |__________|__________|            ____________
                                   |          |          |           |            |
                                   |    D4    |    GND   |---------- |  ESP8266   |
