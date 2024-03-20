@@ -4,20 +4,20 @@ This project demonstrates interfacing LEDs with a push button using an ESP8266 (
 
 <br>
 
-<img src="./image/output.gif" alt="Connection Diagram" width="800">
+<img src="./image/output.gif" alt="Connection Diagram" width="830">
 
 <br>
 
-                               _____________________
-                              |          |          |
-                              |    D1    |    D2    |
-                              |__________|__________|
-                              |          |          |
-                              |    D3    |    D5    |
-                              |__________|__________|            _______
-                              |          |          |           |       |
-                              |    D4    |    GND   |---------- |  GND  |
-                              |__________|__________|           |_______|
+                                   _____________________
+                                  |          |          |
+                                  |    D1    |    D2    |
+                                  |__________|__________|
+                                  |          |          |
+                                  |    D3    |    D5    |
+                                  |__________|__________|            _______
+                                  |          |          |           |       |
+                                  |    D4    |    GND   |---------- |  GND  |
+                                  |__________|__________|           |_______|
 
 - D1, D2, D3, D5: Pins connected to LEDs.
 - D4: Pin connected to the push button.
@@ -87,7 +87,7 @@ This directory contains information about the ESP8266 microcontroller board.
 - Communications: I2C, Serial, SPI
 - WiFi: Built-in
 
-For more details, refer to [Wemos ESP8266 Wi-Fi Board (D1 R1) Details](components/ESP8266/esp.md)
+For more details, refer to [Wemos ESP8266 Wi-Fi Board (D1 R1) Details](components/ESP8266)
 
 ### LED 💡
 
@@ -97,19 +97,19 @@ This directory contains information about the LEDs used in the project.
 
 - Type: 3.3V LEDs (Red, Green, Blue, Yellow)
 
-For more details, refer to [LED Details](components/LED/led.md)
+For more details, refer to [LED Details](components/LED)
 
 ### Push Button 🔘
 
 This directory contains information about the push button used in the project.
 
-For more details, refer to [Push Button Details](components/PUSH_BUTTON/button.md)
+For more details, refer to [Push Button Details](components/PUSH_BUTTON)
 
 ### Male to Male Jumper Wires 🚀
 
 This directory contains information about the male to male jumper wires used in the project.
 
-For more details, refer to [Jump Wires Details](components/JUMP_WIRE/jumpwires.md)
+For more details, refer to [Jump Wires Details](components/JUMP_WIRE)
 
 ### Breadboard 🍞
 
@@ -123,7 +123,7 @@ This directory contains information about the breadboard used in the project.
 - Dimension: 16.5x5.5cm
 - Common Rating: 1A @ 5V or 5 Watt
 
-For more details, refer to [Breadboard Details](components/BREAD_BOARD/breadboard.md)
+For more details, refer to [Breadboard Details](components/BREAD_BOARD)
 
 ## Code 💻
 
