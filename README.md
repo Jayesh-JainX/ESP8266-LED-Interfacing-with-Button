@@ -14,14 +14,15 @@ This project demonstrates interfacing LEDs with a push button using an ESP8266 (
                                   |__________|__________|
                                   |          |          |
                                   |    D3    |    D5    |
-                                  |__________|__________|            _______
-                                  |          |          |           |       |
-                                  |    D4    |    GND   |---------- |  GND  |
-                                  |__________|__________|           |_______|
+                                  |__________|__________|            ____________
+                                  |          |          |           |            |
+                                  |    D4    |    GND   |---------- |  ESP8266   |
+                                  |__________|__________|           |____________|
 
 - D1, D2, D3, D5: Pins connected to LEDs.
 - D4: Pin connected to the push button.
 - GND: Ground connection.
+- ESP8266: Wemos ESP8266 Wi-Fi Board (D1 R1)
 
 ## Setup Steps 🛠️
 
