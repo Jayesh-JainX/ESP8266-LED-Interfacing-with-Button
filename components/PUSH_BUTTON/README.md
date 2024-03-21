@@ -7,8 +7,7 @@ This directory contains information about the push button used in the project.
 ## Specifications
 
 - **Type**: Momentary Push Button
-- **Rating**: [Insert rating]
-- **Pinout**: [Insert pinout details]
+- **Rating**: 12V 50mA
 
 ## Description
 

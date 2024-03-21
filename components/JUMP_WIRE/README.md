@@ -6,9 +6,8 @@ This directory contains information about the male to male jumper wires used in 
 
 ## Specifications
 
-- **Type**: Male to Male Jumper Wires
-- **Length**: [Insert length]
-- **Connector Type**: [Insert connector type]
+- **Type**: Female, Male to Male Jumper Wires
+- **Length**: 0.1 inch (2.54mm)
 
 ## Description
 

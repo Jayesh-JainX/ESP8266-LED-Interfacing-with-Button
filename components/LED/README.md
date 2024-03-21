@@ -8,7 +8,6 @@ This directory contains information about the LEDs used in the project.
 
 - **Type**: 3.3V LEDs (Red, Green, Blue, Yellow)
 - **Forward Voltage**: 3.3V
-- **Current**: [Insert current]
 
 ## Description
 
