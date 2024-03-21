@@ -24,4 +24,4 @@ The Wemos ESP8266 Wi-Fi Board (D1 R1) is a popular microcontroller board widely 
 
 You can purchase Wemos ESP8266 Wi-Fi Board (D1 R1) boards from online stores like:
 
-For more details and to purchase, visit [Wemos ESP8266 Wi-Fi Board (D1 R1) on Amazon](https://www.amazon.com/ESP8266-ESP-12-Development-Wireless-Micropython/dp/B08KG9YZ7T).
+For more details and to purchase, visit [Wemos ESP8266 Wi-Fi Board (D1 R1) on Amazon](https://amzn.to/4a1UzbI).
